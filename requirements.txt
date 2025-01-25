@@ -1,0 +1,5 @@
+requests>=2.26.0
+lxml>=4.6.3
+Pillow>=9.0.0
+numpy>=1.21.0
+pygame>=2.1.0
